@@ -1,5 +1,6 @@
-### Hi ✨ _special_ ✨
-<br>
+###  ✨ HI! ✨
+
+
 
 ### 🔨 Languages and Tools:
 
@@ -14,7 +15,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
+###  Here:
+  <p align='lefth'>
+    <a href="https://www.linkedin.com/in/angela-teposte/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;&nbsp;
+    <a href="teposte.villalpa@gmail.com.io"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>&nbsp;&nbsp;
+  </p>
 
 <!--
 **TeposteAJ/TeposteAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
