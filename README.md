@@ -2,7 +2,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+class PythonDeveloper:
 
     def __init__(self):
         self.name = "Angie"
@@ -13,7 +13,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = PythonDeveloper()
 me.say_hi()
 ```
 
