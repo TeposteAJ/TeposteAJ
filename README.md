@@ -20,7 +20,7 @@ me.say_hi()
 <div align="left">
 <h2> Languages and Tools  <img src="https://media.tenor.com/Es9wm76r9QkAAAAi/angry-typing-cat.gif" width="40">  :</h2>
 </div>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Postgresql" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Fortran" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/800px-Fortran_logo.svg.png"></a>
 <a href="https://www.java.com" target="GoogleDataStudio"><img align="left" alt="Java" height ="42px" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg"></a>
