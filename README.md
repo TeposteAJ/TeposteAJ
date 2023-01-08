@@ -3,15 +3,15 @@
 # -*- coding: utf-8 -*-
 
 class PythonDeveloper:
-
     def __init__(self):
         self.name = "Angie"
         self.role = "Software Engineer"
         self.language_spoken = ["esp_LATAM", "en_US"]
-
+        self.currently_learning = ["AWS","Django"]
+        self.currently_working = "Personal Project"
+        
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
+        print("Hello!, hope you find some of my work interesting.")
 
 me = PythonDeveloper()
 me.say_hi()
