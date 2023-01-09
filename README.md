@@ -34,29 +34,3 @@ me.say_hi()
 <a href="https://www.figma.com/" target="Figma"> <img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
 <a href="https://code.visualstudio.com/" target="VisualStudioCode"> <img align="left" alt="VSC" height ="42px" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> </a>
 
-
-<!--
-###  ✨ HI! ✨
-<div align="left">
-<h2> Here <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h2>
-</div>
-
-  <p align='lefth'>
-    <a href="https://www.linkedin.com/in/angela-teposte/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;&nbsp;
-    <a href="teposte.villalpa@gmail.com.io"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>&nbsp;&nbsp;
-  </p>
-
-
-**TeposteAJ/TeposteAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
