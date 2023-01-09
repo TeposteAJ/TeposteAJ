@@ -33,4 +33,3 @@ me.say_hi()
 <a href="https://www.netlify.com/" target="Netifly"> <img align="left" alt="Netifly" height ="42px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"/> </a>
 <a href="https://www.figma.com/" target="Figma"> <img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
 <a href="https://code.visualstudio.com/" target="VisualStudioCode"> <img align="left" alt="VSC" height ="42px" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> </a>
-
