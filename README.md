@@ -7,7 +7,7 @@ class PythonDeveloper:
         self.name = "Angie"
         self.role = "Software Engineer"
         self.language_spoken = ["esp_LATAM", "en_US"]
-        self.currently_learning = ["AWS","Django"]
+        self.currently_learning = ["Odoo","GitLab"]
         self.currently_working = "Personal Project"
         
     def say_hi(self):
