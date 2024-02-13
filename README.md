@@ -8,7 +8,7 @@ class PythonDeveloper:
         self.role = "Software Engineer"
         self.language_spoken = ["esp_LATAM", "en_US"]
         self.currently_learning = ["Odoo","GitLab"]
-        self.currently_working = "Personal Project"
+        self.currently_working = [" Private ERP", "Personal Project"]
         
     def say_hi(self):
         print("Hello!, hope you find some of my work interesting.")
