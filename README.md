@@ -5,9 +5,9 @@
 class PythonDeveloper:
     def __init__(self):
         self.name = "Angie"
-        self.role = "Software Engineer"
+        self.role = "Web developer"
         self.language_spoken = ["esp_LATAM", "en_US"]
-        self.currently_learning = ["Odoo","GitLab"]
+        self.currently_learning = ["automated_test","JavaScript"]
         self.currently_working = [" Private ERP", "Personal Project"]
         
     def say_hi(self):
