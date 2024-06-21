@@ -5,16 +5,17 @@
 class PythonDeveloper:
     def __init__(self):
         self.name = "Angie"
-        self.role = "Web developer"
+        self.perceived_role = "Web developer"
+        self.official_title = " Developer Analyst"
         self.language_spoken = ["esp_LATAM", "en_US"]
         self.currently_learning = ["automated_test","JavaScript"]
-        self.currently_working = [" Private ERP", "Personal Project"]
+        self.currently_working = ["API's web", "Open Source", "ERP", "Personal Project"]
         
-    def say_hi(self):
-        print("Hello!, hope you find some of my work interesting.")
+    def say_random(self):
+        print("If a line of code from your life transcends, you've done more than most.")
 
 me = PythonDeveloper()
-me.say_hi()
+me.say_random()
 ```
 <div align="left">
 <h2> Languages and Tools  <img src="https://media.tenor.com/Es9wm76r9QkAAAAi/angry-typing-cat.gif" width="40"> :</h2>
