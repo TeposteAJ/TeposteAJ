@@ -52,7 +52,7 @@ class OdooDeveloper(models.Model):
             print(f"Currently Learning: {learning_topics}")
             print(f"Currently Working: {working_topics}")
 
-
+ import pdb; set_trace()
 ```
 <div align="left">
 <h2> Languages and Tools  <img src="https://media.tenor.com/Es9wm76r9QkAAAAi/angry-typing-cat.gif" width="40"> :</h2>
