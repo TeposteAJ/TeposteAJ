@@ -17,6 +17,43 @@ class PythonDeveloper:
 me = PythonDeveloper()
 me.say_random()
 ```
+
+```python
+from odoo import models, fields, api
+
+class OdooDeveloper(models.Model):
+    _name = 'python.developer'
+    _description = 'Partner Odoo Developer'
+
+    name = fields.Char(string='Name', default="Angie")
+    perceived_role = fields.Char(string='Perceived Role', default="Web Developer")
+    official_title = fields.Char(string='Official Title', default="Developer Analyst")
+    language_spoken = fields.Selection(
+        [('es_MX', 'Spanish (MEX)'), ('en_US', 'English (US)')],
+        string='Language Spoken',
+        default='es_MX'
+    )
+    currently_learning = fields.Many2many(
+        'learning.topic', 
+        string='Currently Learning'
+    )
+    currently_working = fields.Many2many(
+        'work.topic', 
+        string='Currently Working'
+    )
+
+    @api.model
+    def say_random(self):
+        return "If a line of code from your life transcends, you've done more than most."
+
+    def print_learning_and_working(self):
+            learning_topics = ', '.join(self.currently_learning.mapped('name'))
+            working_topics = ', '.join(self.currently_working.mapped('name'))
+            print(f"Currently Learning: {learning_topics}")
+            print(f"Currently Working: {working_topics}")
+
+
+```
 <div align="left">
 <h2> Languages and Tools  <img src="https://media.tenor.com/Es9wm76r9QkAAAAi/angry-typing-cat.gif" width="40"> :</h2>
 </div>
